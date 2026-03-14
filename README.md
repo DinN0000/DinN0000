@@ -8,27 +8,6 @@
 
 <table>
   <tr>
-    <td colspan="2">
-      <h3 align="center">BidKit</h3>
-      <p align="center">
-        <a href="https://github.com/DinN0000/bidkit">
-          <img src="https://img.shields.io/badge/Claude_Code-Plugin-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        AI agent team for proposal writing.<br/>
-        5 specialized agents (Overseer · Writer · Researcher · Critic · Team Lead) collaborate<br/>
-        to produce top-tier technical proposals from strategy to final output.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Multi--Agent-000?style=flat-square" />
-        <img src="https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white" />
-        <img src="https://img.shields.io/badge/Codex-00A67E?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">DotBrain</h3>
       <p align="center">
@@ -67,20 +46,21 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">CompanionBot</h3>
+      <h3 align="center">BidKit</h3>
       <p align="center">
-        <a href="https://github.com/DinN0000/CompanionBot">
-          <img src="https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+        <a href="https://github.com/DinN0000/bidkit">
+          <img src="https://img.shields.io/badge/Claude_Code-Plugin-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
         </a>
       </p>
       <p align="center">
-        Telegram AI chatbot companion.<br/>
-        Personal assistant powered by AI APIs.
+        AI agent team for proposal writing.<br/>
+        5 specialized agents collaborate to produce top-tier technical proposals.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Multi--Agent-000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Codex-00A67E?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
     </td>
     <td width="50%">
@@ -98,6 +78,25 @@
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">CompanionBot</h3>
+      <p align="center">
+        <a href="https://github.com/DinN0000/CompanionBot">
+          <img src="https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        Telegram AI chatbot companion.<br/>
+        Personal assistant powered by AI APIs.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
       </p>
     </td>
   </tr>
