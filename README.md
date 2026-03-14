@@ -8,6 +8,25 @@
 
 <table>
   <tr>
+    <td colspan="2">
+      <h3 align="center">Terminal Portfolio</h3>
+      <p align="center">
+        <a href="https://github.com/DinN0000/example_02">
+          <img src="https://img.shields.io/badge/Web-Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        Terminal-style portfolio website.<br/>
+        Interactive CLI experience in the browser.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">DotBrain</h3>
       <p align="center">
@@ -64,25 +83,6 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Terminal Portfolio</h3>
-      <p align="center">
-        <a href="https://github.com/DinN0000/example_02">
-          <img src="https://img.shields.io/badge/Web-Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        Terminal-style portfolio website.<br/>
-        Interactive CLI experience in the browser.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
       <h3 align="center">CompanionBot</h3>
       <p align="center">
         <a href="https://github.com/DinN0000/CompanionBot">
