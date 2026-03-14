@@ -8,6 +8,27 @@
 
 <table>
   <tr>
+    <td colspan="2">
+      <h3 align="center">BidKit</h3>
+      <p align="center">
+        <a href="https://github.com/DinN0000/bidkit">
+          <img src="https://img.shields.io/badge/Claude_Code-Plugin-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        AI agent team for proposal writing.<br/>
+        5 specialized agents (Overseer · Writer · Researcher · Critic · Team Lead) collaborate<br/>
+        to produce top-tier technical proposals from strategy to final output.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Multi--Agent-000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Codex-00A67E?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">DotBrain</h3>
       <p align="center">
@@ -23,7 +44,7 @@
         <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
         <img src="https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/github/v/release/DinN0000/DotBrain?style=flat-square&color=58a6ff" />
+        <img src="https://img.shields.io/badge/v/release-58a6ff?style=flat-square" />
       </p>
     </td>
     <td width="50%">
